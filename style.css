@@ -1,0 +1,166 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #070E2E;
+    min-height: 100vh;
+    min-width: 900px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 88px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: aliceblue;
+    border-bottom: 5px solid #587ab7;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    min-height: 88px;
+}
+
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 13px 20px;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #587ab7;
+    font-weight: 600;
+    border-radius: 20px;
+    transition: .3s;
+}
+
+.nav-item {
+    margin: 0 5px;
+}
+
+.nav-link:hover {
+    background-color: white;
+    box-shadow: inset 2px 2px 4px #587ab7;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 0 20px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#Profile {
+    width: 100%;
+    box-shadow: 5px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin: 20px;
+    border: aliceblue 10px solid;
+}
+
+.section {
+    width: 50%;
+    padding: 100px 20px 20px;
+    margin: -80px 0 0;
+}
+
+.section-container {
+    border-radius: 20px;
+    min-width: 100%;
+    min-height: 100%;
+    padding: 20px;
+    box-shadow: inset 5px 10px 4px rgba(0, 0, 0, 0.25);
+    background-color: aliceblue;
+}
+
+@media (max-width: 1130px) {
+    .section {
+        width: 100%;
+    }
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #587ab7;
+}
+
+.profile-title {
+    font-size: 80px;
+    margin: 0;
+}
+
+.profile-subtitle {
+    font-size: 23px;
+    margin: 0;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+#Profile {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 20px;
+}
+
+.section-profile {
+    margin-left: 50px;
+}
+
+.footer {
+    background-color: #587ab7;
+    padding: 20px;
+}
+
+.github {
+    text-decoration: none;
+    color: #070E2E;
+    line-height: 45px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.rss {
+    background-image: url(assets/rs_school_js.svg);
+    width: 121px;
+    height: 45px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
