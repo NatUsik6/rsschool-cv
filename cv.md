@@ -3,10 +3,10 @@
 ### Contacts
 * **Location:** Mogilev, Belarus
 * **Phone:** +375 29 744-59-20
-* **Telegram:** @Nat_usik_X
-* **Discord:** Natallia Usikava (@natusik6)
+* **Telegram:** [Natalia Usikava](https://t.me/Nat_usik_X)
+* **Discord:** [@natusik6](https://discordapp.com/users/607297007484141589)
 * **Linkedin:** [Natalia Usikava](https://www.linkedin.com/in/natalia-usikava-0b5b34238/)
-* **Email:** tashausik6@gmail.com
+* **Email:** [tashausik6@gmail.com](tashausik6@gmail.com)
 * **GitHub:** [NatUsik6](https://github.com/NatUsik6)
 
 ### About Me
@@ -14,7 +14,7 @@ My goal is to gain knowledge and experience in the field of software development
 ### Skills
 * HTML5
 * CSS3/CSS3 Flex
-* JavaScript (Basic)
+* JavaScript 
 * Git
 
 ### Code example
@@ -29,7 +29,7 @@ Nothing yet...
 
 ### Education and courses
 * University: Gomel Station Medical University (Unfinished higher education)
-* Courses: RS School stage 0
+* Courses: RS School JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)
 
 ### Language 
 * English A2+ (Pre-Intermediate)
