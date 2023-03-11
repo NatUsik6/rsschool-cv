@@ -163,6 +163,7 @@ img {
     background-size: contain;
     background-repeat: no-repeat;
     display: block;
+    color: transparent;
 }
 
 .footer-container {
