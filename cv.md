@@ -14,6 +14,7 @@ My goal is to gain knowledge and experience in the field of software development
 ### Skills
 * HTML5
 * CSS3/CSS3 Flex
+* SASS/SCSS
 * JavaScript 
 * Git
 
@@ -25,11 +26,17 @@ function otherAngle(a, b) {
 }
 ```
 ### Work experience
-Nothing yet...
+* [Momentum](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2022Q4/momentum/)
+* [Plants](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2022Q4/plants/)
+* [CSS_BAYAN](https://natusik6.github.io/cssBayan/cssBayan/)
+* [Shelter](https://rolling-scopes-school.github.io/natusik6-JSFE2023Q1/shelter/)
 
 ### Education and courses
 * University: Gomel Station Medical University (Unfinished higher education)
-* Courses: RS School JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)
+* Courses: 
+  - RS School JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)
+  - RS School JavaScript/Front-end 2023Q1 (Unfinished)
+
 
 ### Language 
 * English A2+ (Pre-Intermediate)
