@@ -22,6 +22,15 @@ body {
     padding-top: 88px;
 }
 
+a {
+    text-decoration: none;
+    color: #4AAEA3;
+}
+
+a:hover {
+    color: #187167;
+}
+
 .container {
     max-width: 1440px;
     margin: 0 auto;

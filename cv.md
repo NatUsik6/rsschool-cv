@@ -33,7 +33,7 @@ function otherAngle(a, b) {
 
 ### Education and courses
 * University: Gomel Station Medical University (Unfinished higher education)
-* Courses: 
+* Courses:  
   - RS School JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)
   - RS School JavaScript/Front-end 2023Q1 (Unfinished)
 
