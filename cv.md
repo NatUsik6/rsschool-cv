@@ -1,5 +1,5 @@
 # Natalia Usikava
-## (almost) Junior Frontend Developer
+## (almost) Junior Front-end Developer
 ### Contacts
 * **Location:** Mogilev, Belarus
 * **Phone:** +375 29 744-59-20
@@ -11,12 +11,16 @@
 
 ### About Me
 My goal is to gain knowledge and experience in the field of software development in order to become a good and worthy developer. I have communication skills with different types of people, I can find an approach to everyone. I have a sense of purpose and a desire to learn something new.
+
 ### Skills
+* JavaScript
+* Node.JS
+* Figma
 * HTML5
 * CSS3/CSS3 Flex
 * SASS/SCSS
-* JavaScript 
 * Git
+* VS Code
 
 ### Code example
 ```
@@ -26,18 +30,19 @@ function otherAngle(a, b) {
 }
 ```
 ### Work experience
-* [Momentum](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2022Q4/momentum/)
-* [Plants](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2022Q4/plants/)
+* [Library](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2023Q2/library/)
+* [2048](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2023Q2/js30-random-game/)
 * [CSS_BAYAN](https://natusik6.github.io/cssBayan/cssBayan/)
 * [Shelter](https://rolling-scopes-school.github.io/natusik6-JSFE2023Q1/shelter/)
+* [Plants](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2022Q4/plants/)
 
 ### Education and courses
 * University: Gomel Station Medical University (Unfinished higher education)
 * Courses:  
-  - RS School JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)
+  - RS School JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)
   - RS School JavaScript/Front-end 2023Q1 (Unfinished)
-
+  - RS School JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT) 
 
 ### Language 
-* English A2+ (Pre-Intermediate)
+* English B1 (Intermediate)
 * Russian - native speaker
