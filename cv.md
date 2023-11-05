@@ -30,11 +30,11 @@ function otherAngle(a, b) {
 }
 ```
 ### Work experience
-* [Library](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2023Q2/library/)
-* [2048](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2023Q2/js30-random-game/)
+* [Library](https://natusik6.github.io/RS-School-Stage0-Tasks/library)
+* [2048](https://natusik6.github.io/RS-School-Stage0-Tasks/js30-random-game)
 * [CSS_BAYAN](https://natusik6.github.io/cssBayan/cssBayan/)
-* [Shelter](https://rolling-scopes-school.github.io/natusik6-JSFE2023Q1/shelter/)
-* [Plants](https://rolling-scopes-school.github.io/natusik6-JSFEPRESCHOOL2022Q4/plants/)
+* [Shelter](https://natusik6.github.io/Shelter/shelter/)
+* [Plants](https://natusik6.github.io/Plants/plants)
 
 ### Education and courses
 * University: Gomel Station Medical University (Unfinished higher education)
